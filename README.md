@@ -61,7 +61,20 @@ sqft_living15	    -           Living room area in 2015(implies-- some renovation
  
 
 
-notebook -
+##  notebook -
+
+
  https://github.com/Rishavraj839/Project-2-predicting-housing-prices/blob/main/house%20price%20prediction.ipynb
+ 
+ 
+ 
+ 
+## copyright 
+
+### Kaggle
+
+### IBM
+
+#### coursera
 
 
