@@ -10,6 +10,8 @@ you are a Data Analyst working at a Real Estate Investment Trust. The Trust woul
 Jupyter Notebook through IBM Watson studio 
 
 ### Dataset Used 
+https://www.kaggle.com/harlfoxem/housesalesprediction/code
+
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. It was taken from here. It was also slightly modified for the purposes of this course. Here is the description of the data:
 
 #### Variable	                                     Description
@@ -56,5 +58,10 @@ sqft_living15	    -           Living room area in 2015(implies-- some renovation
   
   
  sqft_lot15	       -             LotSize area in 2015(implies-- some renovations)
+ 
+
+
+notebook -
+ https://github.com/Rishavraj839/Project-2-predicting-housing-prices/blob/main/house%20price%20prediction.ipynb
 
 
