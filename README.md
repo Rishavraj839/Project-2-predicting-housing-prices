@@ -69,7 +69,7 @@ sqft_living15	    -           Living room area in 2015(implies-- some renovation
  
  
  
-## copyright / data ued from
+## copyright / data used from
 
 ### Kaggle
 
