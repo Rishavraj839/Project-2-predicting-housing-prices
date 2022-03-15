@@ -14,7 +14,7 @@ https://www.kaggle.com/harlfoxem/housesalesprediction/code
 
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. It was taken from here. It was also slightly modified for the purposes of this course. Here is the description of the data:
 
-#### Variable	                                     Description
+#### Variable	                   -                  Description
 
 id	     -       A notation for a house
 
@@ -69,7 +69,7 @@ sqft_living15	    -           Living room area in 2015(implies-- some renovation
  
  
  
-## copyright 
+## copyright / data ued from
 
 ### Kaggle
 
